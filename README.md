@@ -35,5 +35,7 @@ Implement robust error handling to ensure that your application gracefully handl
 ### Task 8: Run Static Code Analysis
 Perform static code analysis to review your code for potential issues, code quality, and adherence to best practices.
 
-![Result 1](/result_image_1.png)
-![Result 2](/result_image_2.png)
+
+![Result 1](https://github.com/FaakhirIqbal/Watson-NLP-Emotion-det-lab/main/result_image_1.png)
+![Result 2](https://github.com/FaakhirIqbal/Watson-NLP-Emotion-det-lab/main/result_image_2.png)
+
